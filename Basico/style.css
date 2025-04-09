@@ -1,0 +1,16 @@
+#container{
+    background-color: rgba(250, 128, 114, 0.533);
+    width: 960px;
+    margin: 0 auto;
+    padding: 40px;
+    colo
+}
+/*Texto em negrito*/
+.texto-destaque{
+    font-weight: bold;
+}
+/*style elementos da lista*/
+ul li{
+    list-style: none;
+    margin-bottom: 5px;
+}
